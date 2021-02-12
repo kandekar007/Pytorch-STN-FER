@@ -10,6 +10,6 @@ PyTorch Documentation of Spatial Transformer Networks: https://pytorch.org/tutor
 <br />
 
 ## Spatial Transformer Networks
-<br />
 STN Visualisation
+<br />
 ![Spatial Variance](https://miro.medium.com/max/428/1*J6FfW3t-opkKM1RU00yH9A.gif)
